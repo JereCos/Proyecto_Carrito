@@ -1,0 +1,41 @@
+body{
+    background-color: #8e24aa;
+}
+.nav-wrapper{
+    background-color: #6a1b9a;
+}
+.waves-effect.waves-light.agregar-carrito.btn{
+    background-color: #4a148c;    
+}
+
+.lista-bebidas{
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+}
+
+.row{
+    height: 400px;
+    width: 300px;
+    display: inline-block;
+}
+
+#finalizar{
+    background-color: #8e24aa;
+}
+
+/* h1{
+    font-size: 48px;
+    display: inline-block;
+    background-color: rgb(195, 255, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+} */
+
+.card-image{
+    height:200px;
+}
+
+td{
+    text-align: center;
+}

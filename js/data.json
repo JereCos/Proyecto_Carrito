@@ -1,0 +1,14 @@
+[
+    {"id": 1, "nombreProducto": "Arroz", "precio": 100, "img": "https://www.casa-segal.com/wp-content/uploads/2020/03/lucchetti-arroz-1kg-bolsa-largo-fino-almacen-casa-segal-mendoza-600x600.jpg"},
+    {"id": 2, "nombreProducto": "Azúcar", "precio": 70, "img": "https://ofishop.com/628-large_default/azucar-chango-bolsa-de-1kg-.jpg"},
+    {"id": 3, "nombreProducto": "Pan", "precio": 120, "img": "https://www.bolsalea.com/blog/media/bolsa-para-pan-y-bolleria.jpeg"},
+    {"id": 4, "nombreProducto": "Queso Cremoso", "precio": 200, "img": "https://jumboargentina.vtexassets.com/arquivos/ids/549745/Queso-Cremoso-Cremon-Horma-X-Kg-Minimo-15-Kg-5-20976.jpg?v=637051944618930000"},
+    {"id": 5, "nombreProducto": "Dulce de leche", "precio": 250, "img": "https://hiperlibertad.vteximg.com.br/arquivos/ids/177607-1000-1000/DULCE-DE-LECHE-LS-COLONIAL-400G-DUL-LECHE-LS-COLONIAL-400G-1-18083.jpg?v=637552288915700000"},
+    {"id": 6, "nombreProducto": "Galletas", "precio": 150, "img": "https://arcorencasa.com/wp-content/uploads/2021/03/20210301-13276.png"},
+    {"id": 7, "nombreProducto": "Mermelada", "precio": 230, "img": "https://jumboargentina.vtexassets.com/arquivos/ids/659649/Mermelada-La-Campagnola-Frutilla-X454g-1-876682.jpg?v=637650155635870000"},
+    {"id": 8, "nombreProducto": "Aceite", "precio": 190, "img": "https://jumboargentina.vtexassets.com/arquivos/ids/427751/Aceite-De-Girasol-Natura-15-L-1-247928.jpg?v=636495154762100000"},
+    {"id": 9, "nombreProducto": "Lavandina", "precio": 125, "img": "https://arcencohogar.vtexassets.com/arquivos/ids/297412-800-800?v=637665760449770000&width=800&height=800&aspect=true"},
+    {"id": 10, "nombreProducto": "Detergente", "precio": 300, "img": "https://www.multifood.com.ar/images/000Z-009-001-02024937Z-009-001-020-Magistral-limon-500.jpg"},
+    {"id": 11, "nombreProducto": "Pure de Tomate", "precio": 90, "img": "https://ardiaprod.vteximg.com.br/arquivos/ids/184713-1000-1000/Pure-de-Tomate-Arcor-520-Gr-_1.jpg?v=637427549279270000"},
+    {"id": 12, "nombreProducto": "Yerba", "precio": 270, "img": "https://jumboargentina.vtexassets.com/arquivos/ids/682640/Yerba-Mate-Verdeflor-Con-Palo-Hierbas-500-Gr-1-14540.jpg?v=637763241728670000"}
+]
