@@ -2,7 +2,7 @@ html {
     font-size: 62.5%;
 }
 /* body {
-    background-color: #f5f3f3
+    background-color: #8e24aa;
 } */
 h1 {
     text-align: center;
@@ -12,14 +12,14 @@ h2 {
 }
 h4 {
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 700;
 }
 header {
     padding: 20px 0 0 0;
     background: white;
     text-align: center;
 } 
-@media (min-width: 650px) {
+@media (min-width: 750px) {
     header {
         text-align: left;
     }
@@ -27,7 +27,7 @@ header {
 .borrar-producto {
     background-color: red;
     border-radius: 50%;
-    padding: 5px 10px;
+    padding: 5px;
     text-decoration: none;
     color: rgb(248, 248, 248);
     font-weight: bold;
@@ -94,7 +94,7 @@ ul {
 } */
 
 
-.barra {
+/* .barra {
     padding: 20px 0;
     background: #741d51; 
     background: -moz-linear-gradient(left, #741d51 0%, #e44e52 100%); 
@@ -106,7 +106,7 @@ ul {
 .barra p {
     margin:0;
     color: white;
-}
+} */
 
 .icono {
     background-repeat: no-repeat;
@@ -131,18 +131,18 @@ ul {
     background-image: url(../img/icono3.png);
 }
 
-/* #lista-bebidas .row {
+#lista-bebidas .row {
     margin-bottom:20px;
-} */
-/* .agregar-carrito {
+}
+.agregar-carrito {
     margin:10px 0;
-} */
+}
 
-/* .card {
+.card {
     text-align: center;
     border: 1px solid #e1e1e1;
     background: white;
-} */
+}
 @media (min-width: 550px) {
     .card {
         text-align: left;

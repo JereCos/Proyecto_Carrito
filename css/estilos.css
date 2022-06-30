@@ -8,6 +8,10 @@ body{
     background-color: #4a148c;    
 }
 
+.waves-effect.waves-light.btn{
+    background-color: #4a148c;    
+}
+
 .lista-bebidas{
   height: 300px;
   width: 300px;
@@ -31,6 +35,19 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: oblique;
 } */
+
+#lista-carrito{
+    font-size: medium;
+}
+
+/* #imagen-carrito{
+    size: 1px;
+} */
+
+.info{
+    font-size: 16px;
+    background: #4a148c,
+}
 
 .card-image{
     height:200px;

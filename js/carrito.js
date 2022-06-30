@@ -20,7 +20,6 @@ productos.forEach (prod => {
 
 }
 
-
 function crearTarjetaProducto (producto){
 
     let tarjetaHtml;
@@ -48,8 +47,6 @@ function crearTarjetaProducto (producto){
     tarjeta.innerHTML += tarjetaHtml;
 
 }
-
-
 
 class Producto {
     constructor(id, imagen, titulo, precio) {
@@ -95,15 +92,12 @@ function agregarProducto(e) {
         const productoSelecionado = e.target.parentElement.parentElement;
         leerDatosProducto(productoSelecionado);
         Toastify({
+            position: "top-left",
             text: "Producto agregado al carrito",
             className: "info",
             style: {
-              background: "#4a148c",
-            },
-            offset: {
-              x: 50, // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-              y: 50 // vertical axis - can be a number or a string indicating unity. eg: '2em'
-            },
+                background: "#4a148c",
+            }
           }).showToast();
     }
 }
